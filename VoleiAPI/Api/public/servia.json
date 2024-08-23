@@ -1,0 +1,44 @@
+[
+  {
+      "img": "/S1.png",
+      "nome": "Tijana Boskovic",
+      "idade": "27",
+      "posicao": "Oposta",
+      "selecao": "Sérvia"
+  },
+  {
+      "img": "/S2.png",
+      "nome": "Brankica Mihajlovic",
+      "idade": "34",
+      "posicao": "Ponteira",
+      "selecao": "Sérvia"
+  },
+  {
+      "img": "/S3.png",
+      "nome": "Maja Ognjenovic",
+      "idade": "37",
+      "posicao": "Levantadora",
+      "selecao": "Sérvia"
+  },
+  {
+      "img": "/S4.png",
+      "nome": "Milena Rasic",
+      "idade": "34",
+      "posicao": "Central",
+      "selecao": "Sérvia"
+  },
+  {
+      "img": "/S5.png",
+      "nome": "Ana Bjelica",
+      "idade": "30",
+      "posicao": "Oposta",
+      "selecao": "Sérvia"
+  },
+  {
+      "img": "/S6.png",
+        "nome": "Jovana Stevanovic",
+        "idade": "30",
+        "posicao": "Líbero",
+        "selecao": "Sérvia"
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "img": "/B1.png",
+        "nome": "Sheilla Castro",
+        "idade": "41",
+        "posicao": "Ponta"
+    },
+    {
+        "img": "/B2.png",
+        "nome": "Fernanda Garay",
+        "idade": "37",
+        "posicao": "Ponta"
+    },
+    {
+        "img": "/B3.png",
+        "nome": "Roberta Ratzke",
+        "idade": "26",
+        "posicao": "Levantador"
+    },
+    {
+        "img": "/B4.png",
+        "nome": "Thaisa Menezes",
+        "idade": "37",
+        "posicao": "Central"
+    },
+    {
+        "img": "/B5.png",
+        "nome": "Gabi Guimarães",
+        "idade": "32",
+        "posicao": "Ponta"
+    },
+    {
+        "img": "/B6.png",
+        "nome": "Julia Bergmann",
+        "idade": "24",
+        "posicao": "Ponta"
+    }
+]

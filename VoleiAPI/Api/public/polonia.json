@@ -1,0 +1,44 @@
+[
+  {
+      "img": "/P1.png",
+      "nome": "Magdalena Stysiak",
+      "idade": "24",
+      "posicao": "Oposta",
+      "selecao": "Polônia"
+  },
+  {
+      "img": "/P2.png",
+      "nome": "Joanna Wolosz",
+      "idade": "34",
+      "posicao": "Levantadora",
+      "selecao": "Polônia"
+  },
+  {
+      "img": "/P3.png",
+      "nome": "Malwina Smarzek",
+      "idade": "25",
+      "posicao": "Oposta",
+      "selecao": "Polônia"
+  },
+  {
+      "img": "/P4.png",
+      "nome": "Martyna Lukasik",
+      "idade": "28",
+      "posicao": "Ponteira",
+      "selecao": "Polônia"
+  },
+  {
+      "img": "/P5.png",
+      "nome": "Agnieszka Kakolewska",
+      "idade": "31",
+      "posicao": "Central",
+      "selecao": "Polônia"
+  },
+  {
+      "img": "/P6.png",
+      "nome": "Katarzyna Zaroślińska-Król",
+      "idade": "35",
+      "posicao": "Ponteira",
+      "selecao": "Polônia"
+  }
+]

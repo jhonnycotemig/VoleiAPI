@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --color-primary: #FF6600;
+}
+
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo img {
+    width: 100%;
+}
+
+header h1 {
+    font-size: 1.3rem;
+    transition: .3s;
+}
+
+header ul {
+    position: absolute;
+    list-style: none;
+    padding: 0;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    background-color: white;
+    margin-top: 1.8%;
+    margin-left: -1%;
+    width: 17%;
+    height: 0vh;
+    transition: .5s;
+    overflow: hidden;
+}
+
+header h1:hover {
+    cursor: pointer;
+    color: var(--color-primary);
+}
+
+header h1:hover ul {
+    height: 40vh;
+}
+
+.logo {
+    width: 10%;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.link li {
+    height: 5vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    transition: .3s;
+}
+
+.link li span {
+    margin-left: 7%;
+    font-size: 1.2rem;
+}
+
+.link li:hover {
+    background-color: rgb(241, 241, 241);
+}
+
+footer {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+footer h1 {
+    font-size: 1.2rem;
+    color: var(--color-primary);
+}
+
+.body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    padding-bottom: 5%;
+}
+
+.container {
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.container div {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container div h1 {
+    margin-top: -15%;
+    font-size: 2rem;
+    line-height: 10vh;
+}
+
+#imgEspecial {
+    margin-top: 13%;
+}
+
+#imgEspecial2 {
+    margin-top: -10%;
+}
+
+.img1 {
+    transition: .3s;
+}
+
+.img2 {
+    transition: .3s;
+}
+
+.img3 {
+    transition: .3s;
+}
+
+.img4 {
+    transition: .3s;
+}
+
+.img5 {
+    transition: .3s;
+}
+
+.img6 {
+    transition: .3s;
+}
+
+.img7 {
+    transition: .3s;
+}
+
+.img8 {
+    transition: .3s;
+}
+
+.container div:hover {
+    cursor: pointer;
+}
+
+.container div:hover .img1 {
+    filter: drop-shadow(1px -19px 1px rgb(13, 214, 13));
+}
+
+.container div:hover .img2 {
+    filter: drop-shadow(1px -19px 1px rgb(38, 0, 255));
+}
+
+.container div:hover .img3 {
+    filter: drop-shadow(1px -19px 1px red);
+}
+
+.container div:hover .img4 {
+    filter: drop-shadow(1px -19px 1px rgb(194, 194, 194));
+}
+
+.container div:hover .img5 {
+    filter: drop-shadow(1px -19px 1px rgb(255, 22, 73));
+}
+
+.container div:hover .img6 {
+    filter: drop-shadow(1px -19px 1px rgb(4, 131, 4));
+}
+
+.container div:hover .img7 {
+    filter: drop-shadow(1px -19px 1px rgb(54, 116, 248));
+}
+
+.container div:hover .img8 {
+    filter: drop-shadow(1px -19px 1px red);
+}
+
+.linkJ {
+    background-color: var(--color-primary);
+    width: 40%;
+    height: 6vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: white;
+    border-radius: 4px;
+    transition: .3s;
+    text-decoration: none;
+}
+
+.linkJ:hover {
+    background-color: #d45500;
+}
+
+.bodyJogadoras {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jogadoras {
+    width: 60%;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+.divAPI {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+}
+
+.divAPI span {
+    width: 30%;
+    text-align: center;
+}
+
+.imagem {
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.span {
+    padding-right: 3%;
+    font-size: 1.1rem;
+    font-weight: bold;
+}

@@ -1,0 +1,44 @@
+[
+  {
+      "img": "/J1.png",
+      "nome": "Sarina Koga",
+      "idade": "27",
+      "posicao": "Ponteira",
+      "selecao": "Japão"
+  },
+  {
+      "img": "/J2.png",
+      "nome": "Ai Kurogo",
+      "idade": "24",
+      "posicao": "Ponteira",
+      "selecao": "Japão"
+  },
+  {
+      "img": "/J3.png",
+      "nome": "Nana Iwasaka",
+      "idade": "24",
+      "posicao": "Central",
+      "selecao": "Japão"
+  },
+  {
+      "img": "/J4.png",
+      "nome": "Mayu Ishikawa",
+      "idade": "25",
+      "posicao": "Ponteira",
+      "selecao": "Japão"
+  },
+  {
+      "img": "/J5.png",
+      "nome": "Mako Kobata",
+      "idade": "28",
+      "posicao": "Líbero",
+      "selecao": "Japão"
+  },
+  {
+      "img": "/J6.png",
+      "nome": "Yuki Ishii",
+      "idade": "26",
+      "posicao": "Oposto",
+      "selecao": "Japão"
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+      "img": "/F1.png",
+      "nome": "Lucille Gicquel",
+      "idade": "26",
+      "posicao": "Oposta"
+    },
+    {
+      "img": "/F2.png",
+      "nome": "Nina Stojiljkovic",
+      "idade": "28",
+      "posicao": "Levantadora"
+    },
+    {
+      "img": "/F3.png",
+      "nome": "Héléna Cazaute",
+      "idade": "26",
+      "posicao": "Ponta"
+    },
+    {
+      "img": "/F4.png",
+      "nome": "Christina Bauer",
+      "idade": "35",
+      "posicao": "Central"
+    },
+    {
+      "img": "/F5.png",
+      "nome": "Amandine Giardino",
+      "idade": "28",
+      "posicao": "Líbero"
+    },
+    {
+      "img": "/F6.png",
+      "nome": "Amandha Sylves",
+      "idade": "25",
+      "posicao": "Central"
+    }
+  ]

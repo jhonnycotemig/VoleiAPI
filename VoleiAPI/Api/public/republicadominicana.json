@@ -1,0 +1,44 @@
+[
+  {
+      "img": "/RD1.png",
+      "nome": "Brayelin Martinez",
+      "idade": "28",
+      "posicao": "Ponteira",
+      "selecao": "República Dominicana"
+  },
+  {
+      "img": "/RD2.png",
+      "nome": "Bethania De La Cruz",
+      "idade": "36",
+      "posicao": "Ponteira",
+      "selecao": "República Dominicana"
+  },
+  {
+      "img": "/RD3.png",
+      "nome": "Niverka Marte",
+      "idade": "24",
+      "posicao": "Levantadora",
+      "selecao": "República Dominicana"
+  },
+  {
+      "img": "/RD4.png",
+      "nome": "Yonkaira Peña",
+      "idade": "29",
+      "posicao": "Ponteira",
+      "selecao": "República Dominicana"
+  },
+  {
+      "img": "/RD5.png",
+      "nome": "Jineiry Martinez",
+      "idade": "28",
+      "posicao": "Central",
+      "selecao": "República Dominicana"
+  },
+  {
+      "img": "/RD6.png",
+        "nome": "Gaila González",
+        "idade": "26",
+        "posicao": "Oposto",
+        "selecao": "República Dominicana"
+  }
+]

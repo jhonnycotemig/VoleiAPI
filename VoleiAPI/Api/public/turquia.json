@@ -1,0 +1,44 @@
+[
+  {
+      "img": "/T1.png",
+      "nome": "Eda Erdem",
+      "idade": "35",
+      "posicao": "Central",
+      "selecao": "Turquia"
+  },
+  {
+      "img": "/T2.png",
+      "nome": "Hande Baladin",
+      "idade": "27",
+      "posicao": "Ponteira",
+      "selecao": "Turquia"
+  },
+  {
+      "img": "/T3.png",
+      "nome": "Meryem Boz",
+      "idade": "34",
+      "posicao": "Oposta",
+      "selecao": "Turquia"
+  },
+  {
+      "img": "/T4.png",
+      "nome": "Zehra Gunes",
+      "idade": "26",
+      "posicao": "Central",
+      "selecao": "Turquia"
+  },
+  {
+      "img": "/T5.png",
+      "nome": "Cansu Ozbay",
+      "idade": "30",
+      "posicao": "Levantadora",
+      "selecao": "Turquia"
+  },
+  {
+      "img": "/T6.png",
+      "nome": "Derya Cebecioğlu",
+      "idade": "26",
+      "posicao": "Líbero",
+      "selecao": "Turquia"
+  }
+]

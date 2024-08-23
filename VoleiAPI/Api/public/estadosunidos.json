@@ -1,0 +1,38 @@
+[
+    {
+        "img": "/EUA1.png",
+        "nome": "Jordan Thompson",
+        "idade": "26",
+        "posicao": "Oposto"
+    },
+    {
+        "img": "/EUA2.png",
+        "nome": "Kelsey Robinson",
+        "idade": "31",
+        "posicao": "Ponta"
+    },
+    {
+        "img": "/EUA3.png",
+        "nome": "Haleigh Washington",
+        "idade": "26",
+        "posicao": "Central"
+    },
+    {
+        "img": "/EUA4.png",
+        "nome": "Jordyn Poulter",
+        "idade": "25",
+        "posicao": "Levantador"
+    },
+    {
+        "img": "/EUA5.png",
+        "nome": "Madi Kingdon",
+        "idade": "29",
+        "posicao": "Ponta"
+    },
+    {
+        "img": "/EUA6.png",
+        "nome": "Kara Bajema",
+        "idade": "27",
+        "posicao": "Ponta"
+    }
+]
